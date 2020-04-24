@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DayNightThemeDemo</string>
+    <string name="sample_header">Golden Retriever</string>
+    <string name="sample_text">     A large dog with a silky coat that ranges from ivory to reddish,
+        the golden retriever is instantly recognizable. His floppy ears and soft eyes frame a dark nose.
+        This breed was originally bred to help duck hunters bring ducks back to the boat.
+        To this day, these dogs are generally friendly with strangers and even-tempered with change.
+        They tend to love water and fetch, qualities that come together to make them into the quintessential American dog.</string>
+    <string name="night_mode">Night mode</string>
+</resources>
